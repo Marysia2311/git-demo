@@ -2,13 +2,15 @@ New test 20/12/05
 new test 2 20/12/06
  
 
-<<<<<<< HEAD
-=======
+
 fature new b
 
->>>>>>> feature
+
 
 
 ok new work
 
 2 work in main
+
+tra ta tat
+
